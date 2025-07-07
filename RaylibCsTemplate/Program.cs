@@ -15,5 +15,6 @@ class Program
 
             EndDrawing();
         }
+        CloseWindow();
     }
 }
